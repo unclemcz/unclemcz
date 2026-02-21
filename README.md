@@ -1,1 +1,1 @@
-曾经是专注写Bug的业余C程序员，现在是懒散的业余JavaScript与Python程序员，具有多次学习Rust失败经历
+曾经是专注写Bug的业余C程序员，现在是懒散的业余JavaScript与Python程序员，具有多次学习Rust失败经历。
